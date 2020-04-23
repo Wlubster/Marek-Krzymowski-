@@ -8,6 +8,6 @@ Agent = "Marek Krzymowski"
 Cringe = "Darek Letkiewicz"
 Wieza = "Jakub Rydzewski"
 Rakieto = "Mikolaj Piecek"
-Nieporet = "Kacper Karabin"
+Nieporet = "Mikolaj Zeberkiewicz"
 Zaba = "Kacper Karabin"
 print(Pelikan + ",", Piksel + ",", Chudy + ",", Kret + ",", Cringe + ",", Agent + ",", Wieza + ",", Rakieto + ",", Nieporet + ",", Zaba)
